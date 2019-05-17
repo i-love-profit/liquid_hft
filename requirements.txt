@@ -1,0 +1,5 @@
+pandas==0.23.3
+pytz==2018.9
+matplotlib==3.0.2
+numpy==1.15.4
+python-quoine==0.1.4
